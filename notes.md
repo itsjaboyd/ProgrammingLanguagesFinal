@@ -216,7 +216,7 @@ Statement level Concurrency - statements that express parallelism, such statemen
 
 
 ## November 22, 2019
-----------FINAL REVIEW----------
+FINAL REVIEW
 Short Circuit Evaluation - there are mathematical identities, especially in boolean logic.
     * The evaluation of the entire expression doesn't matter when with parts such as False &&, True &&, True || 
 The Unconditional Branch is goto, break, continue, etc.
